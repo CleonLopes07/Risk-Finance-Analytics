@@ -1,4 +1,4 @@
-# Finance-Risk-and-Analytics
+# Risk-and-Finance-Analytics
 
 Problem Statement:
 
