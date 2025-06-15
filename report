@@ -1,0 +1,48 @@
+Short Insight Summary – Risk & Finance Analytics Projects
+1. Project A – Financial Ratio Analysis & Default Risk (Univariate, Bivariate, and Multivariate Analysis)
+Dataset: Company-level financial metrics
+Many firms had zero R&D expenditure, indicating lack of innovation investment in some sectors.
+
+A strong correlation observed between:
+Cash Flow Rate and Cash Flow per Share
+Interest-bearing Debt Interest Rate and Default Probability
+
+Multivariate analysis indicated high default probability in companies with:
+Low operating profit growth
+High debt ratios
+Low net profit margins
+
+2. Project A – Default Risk Modeling
+Focused on building risk profiles using financial ratios.
+Features like Cash Flow to Equity, Operating Expense Rate, and Tax Rate A were key predictors.
+Consistent net profit growth and positive asset growth decreased default likelihood.
+
+3. Project B – Market Risk Analysis (Time Series)
+Dataset: Stock price data (Infosys, Axis Bank, SAIL, etc.) from 2014
+
+Analysis highlighted:
+Infosys and Shree Cement had relatively higher mean prices.
+SAIL and Indian Hotels showed more price stability but lower valuation.
+Standard deviation indicated Sun Pharma and Mahindra & Mahindra had higher volatility.
+These patterns suggest varying exposure to systematic market risk.
+
+Formal Analytics Report: Risk & Finance Analytics Summary
+Objective
+To analyze financial data from companies and market price trends to evaluate default risk and market risk exposure using exploratory and statistical techniques.
+
+Methodology
+Univariate, Bivariate, Multivariate Analysis to identify financial risk indicators.
+Time-series descriptive statistics for equity-level market risk profiling.
+Dataset sourced from company balance sheets and public market data.
+
+Key Findings
+High cash flow rate and net profit per share correlate with lower default probabilities.
+Companies with high operating expense rates but flat revenue growth were flagged as higher risk.
+Infosys and Shree Cement were among the most volatile and valuable stocks in the market data.
+SAIL and Jet Airways showed low valuations and possible decline signals.
+
+Recommendations
+Prioritize multivariate regression or classification models to score firms on default probability.
+Use portfolio optimization techniques for managing exposure to highly volatile stocks.
+Encourage monitoring of operating and financial efficiency ratios (especially in debt-heavy sectors).
+Implement Value-at-Risk (VaR) analysis in market risk module for more accurate financial decision-making.
